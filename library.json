@@ -1,0 +1,20 @@
+{
+    "name": "ESPLogger",
+    "version": "1.0.0",
+    "description": "A simple logging library for ESP and Arduino-based projects",
+    "keywords": "logging, debug, esp, arduino",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kuslota/esplogger"
+    },
+    "authors": [
+      {
+        "name": "kuslota",
+        "email": "kuslota@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "homepage": "https://github.com/kuslota/esplogger",
+    "frameworks": "*",
+    "platforms": "*"
+  }
